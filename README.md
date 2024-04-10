@@ -8,7 +8,8 @@
 - The food is also drawn to the screen
 - Once the collision is detected between the snake head and the food, the snake grows by a portion
 - The score is kept throughout the session
-- Once the snake head comes into contact with either the wall or the snake body, the game comes to an end and the score is displayed. 
+- Once the snake head comes into contact with either the wall or the snake body, the game comes to an end and the score is displayed.
+
 ![Snake2](https://github.com/PureJD/Snake/blob/main/screen_shots/snake_2.png?raw=true)
 
 
